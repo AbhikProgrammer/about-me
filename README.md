@@ -1,16 +1,17 @@
-## About Me
+<br>
+## About Me 
 <br/>
 
 #My Interests
-
+<br>
 I am Abhik Dutta. I like Physical activities and am an athlete. Among curriculars I like physics-related subjects.<br/>
 
 #Why I joined Engineering
-
+<br>
 I joined Engineering as it is a subject which goes along my interests. Brainstorming, innovation and research are some of the most important things that matter to me.<br/>
 
 #Skills I wanna learn
-
+<br>
 Some skills I want to learn in college are coding, entrepreneurship, etc.<br/>
 
 #Dream Country
